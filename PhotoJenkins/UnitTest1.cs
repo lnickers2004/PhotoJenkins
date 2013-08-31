@@ -9,6 +9,7 @@ namespace PhotoJenkins
         [TestMethod]
         public void TestMethod1()
         {
+            //Assert
             Assert.IsNull(null);
         }
     }
